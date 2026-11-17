@@ -22,7 +22,7 @@ Model Predictive Control (MPC): Advanced real-time optimization to handle dynami
 
 Cascade Integration: Complete Simulink testing environment bridging the kinematic and dynamic levels for point stabilization and path following maneuvers.
 
-👨‍💻 Author
+## Author
 
 Ettore Bioli
 Master's Student in Robotics and Automation Engineering | University of Pisa
